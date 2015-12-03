@@ -30,3 +30,7 @@
 
 # Debug files
 *.dSYM/
+
+
+# 忽略编译文件
+/rt-thread/bsp/stm32f7-disco/build/*
